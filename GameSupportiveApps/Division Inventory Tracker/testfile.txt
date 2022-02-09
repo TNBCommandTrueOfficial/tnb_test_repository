@@ -1,0 +1,2 @@
+Item ID,Item Family,Item Type,itemName,itemBrand,filePath
+1,Gear,Bags,The One Bag,Fuck you
